@@ -29,4 +29,4 @@ test.ipynb
 ```
 ### Results 
 After Wavelet transferm, feature map is transfered to 4 subbands: HH HL LH and LL bands. HH band for one of the feature is shown below.
-![This is an image](HH.png) 
+![This is an image](img/HH.png) 
