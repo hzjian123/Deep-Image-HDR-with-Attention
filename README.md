@@ -19,4 +19,12 @@ Plot attention region
 ```
 attention.ipynb
 ```
+Plot prehooked inpup and output of DWT
+```
+DWT_plot.ipynb
+```
+Test certain image and compare with ground truth.
+```
+test.ipynb
+```
 ### Results 
