@@ -30,7 +30,7 @@ test.ipynb
 ### Results 
 After Wavelet transferm, feature map is transfered to 4 subbands: HH HL LH and LL bands. HH band for one of the feature is shown below.
 ![This is an image](img/HH.png) 
-After several Conv layers, the feature map change to the result below
+After several Conv layers, the feature map change to the result below.
 ![This is an image](img/HH_2.png) 
 When running the baseline model, the output is as follow.
 In comparison, the proposed method achieved the similar result with same training setting in below.
